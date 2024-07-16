@@ -1,0 +1,1 @@
+This Repository consists of all the code snippets along with their respective output which are a part of Infosys Springboard "Introduction to Python" track
